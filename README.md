@@ -28,18 +28,12 @@ Fueled by curiosity, code, and a bit of chaos.
 ---
 
 
----
-
-### 📂 Featured Projects
-
-
-
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINK"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge"></a>
-  <a href="https://twitter.com/YOUR_LINK"><img src="https://img.shields.io/badge/Twitter-black?logo=twitter&style=for-the-badge"></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge"></a>
+  <a href="https://www.linkedin.com/in/tioursi-yasser-067a10279"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge"></a>
+  <a href="https://x.com/yassertioursi"><img src="https://img.shields.io/badge/Twitter-black?logo=twitter&style=for-the-badge"></a>
+  <a href="mailto:y.tioursi@esi-sba.dz"><img src="https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge"></a>
 </p>
 
 ---
