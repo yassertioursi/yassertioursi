@@ -27,26 +27,12 @@ Fueled by curiosity, code, and a bit of chaos.
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
 
 ---
 
 ### 📂 Featured Projects
 
-| Project | Description |
-|--------|-------------|
-| ⚔️ **CTF-Toolkit** | Automated tools/scripts for web-based CTFs |
-| 📱 **easyScan** | Flutter app with multi-build flavor for Android |
-| 📊 **TaskForce** | A task manager with teams, roles, and deadlines |
-| 🛡️ **Laraguard** | Laravel starter kit with JWT roles and guards |
 
----
 
 ### 📫 Let's Connect
 
