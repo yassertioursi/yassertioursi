@@ -26,7 +26,7 @@
 
 ```text
  WEB PENTESTING     [██████████████████████]  OWASP
- OFFENSIVE SECURITY [██████████████████████]  Red Team
+ OFFENSIVE SECURITY [██████████████████████]  Red Team 
  FULL-STACK DEV     [██████████████████████]  Secure-by-default builds
  ENERGY DRINKS      [██████████████████████]  2× Izem per day — non-negotiable
 ```
@@ -75,17 +75,6 @@
     </td>
   </tr>
 </table>
-
-## STATS
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassertioursi&layout=compact&theme=radical&hide_border=true&card_width=400"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=yassertioursi&show_icons=true&theme=radical&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://visit-counter.vercel.app/counter.png?page=yassertioursi" alt="Visitor counter" width="300"/>
-</p>
 
 ---
 
